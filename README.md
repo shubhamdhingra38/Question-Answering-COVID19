@@ -1,5 +1,5 @@
 # Question-Answering-COVID19
-My attempt to create an API that uses published research papers content as corpus to answer a given query to get the corresponding answer.
+My small contribution/experiment for Kaggle's COVID19 Dataset.
 Kernel was run on Kaggle with INTERNET turned on.
 <br>
 <br>
